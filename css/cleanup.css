@@ -1,1 +1,15 @@
 /* write your override styles here */
+.tag-1 {
+    background-color: red;
+}
+
+/* Modify the background image of #tag-2 */
+#tag-2 {
+    background-image: url(path/to/your/image.jpg);
+}
+
+/*Update the z-index and background of #tag-3 */
+#tag-3 {
+    z-index: 10;
+    background-color: blue;
+}
